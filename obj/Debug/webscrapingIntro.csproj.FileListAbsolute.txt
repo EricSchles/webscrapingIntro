@@ -1,0 +1,9 @@
+c:\users\eric\documents\visual studio 2012\Projects\webscrapingIntro\webscrapingIntro\bin\Debug\webscrapingIntro.exe.config
+c:\users\eric\documents\visual studio 2012\Projects\webscrapingIntro\webscrapingIntro\bin\Debug\webscrapingIntro.exe
+c:\users\eric\documents\visual studio 2012\Projects\webscrapingIntro\webscrapingIntro\bin\Debug\webscrapingIntro.pdb
+c:\users\eric\documents\visual studio 2012\Projects\webscrapingIntro\webscrapingIntro\obj\Debug\webscrapingIntro.exe
+c:\users\eric\documents\visual studio 2012\Projects\webscrapingIntro\webscrapingIntro\obj\Debug\webscrapingIntro.pdb
+c:\users\eric\documents\visual studio 2012\Projects\webscrapingIntro\webscrapingIntro\obj\Debug\webscrapingIntro.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2012\Projects\webscrapingIntro\webscrapingIntro\bin\Debug\HtmlAgilityPack.dll
+c:\users\eric\documents\visual studio 2012\Projects\webscrapingIntro\webscrapingIntro\bin\Debug\HtmlAgilityPack.pdb
+c:\users\eric\documents\visual studio 2012\Projects\webscrapingIntro\webscrapingIntro\bin\Debug\HtmlAgilityPack.xml
